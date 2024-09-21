@@ -1,3 +1,3 @@
 # Frontend Mentor | Blog preview card
 Frontedmentor challenged resolved with HTML and CSS
-![image](https://github.com/user-attachments/assets/e8e9411d-944b-4c08-a95e-a6621e25f0c5)
+![image](https://github.com/user-attachments/assets/9a2963be-bff3-4ee7-89c5-ac71087c0724)
